@@ -1,4 +1,4 @@
-module Twitter
+module Tbs
   module Bootstrap
 
     # Keep current method calls as is using aliases

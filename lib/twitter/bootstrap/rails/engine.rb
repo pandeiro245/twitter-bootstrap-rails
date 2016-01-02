@@ -7,7 +7,7 @@ require_relative '../../../../app/helpers/navbar_helper.rb'
 require_relative '../../../../app/helpers/bootstrap_flash_helper.rb'
 require_relative '../../../../app/helpers/form_errors_helper.rb'
 
-module Twitter
+module Tbs
   module Bootstrap
     module Rails
       class Engine < ::Rails::Engine

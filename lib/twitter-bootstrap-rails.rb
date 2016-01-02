@@ -1,4 +1,4 @@
-module Twitter
+module Tbs
   module Bootstrap
     module Rails
       require 'twitter/bootstrap/rails/engine' if defined?(Rails)

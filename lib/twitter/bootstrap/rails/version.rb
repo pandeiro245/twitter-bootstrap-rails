@@ -1,4 +1,4 @@
-module Twitter
+module Tbs
   module Bootstrap
     module Rails
       VERSION = "3.2.2"
